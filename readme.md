@@ -16,7 +16,7 @@ A package that helps download and update projects from a repository with multi-l
 To install the package, use the following command:
 
 ```bash
-npm install startup-package
+npm install @soydaddy/startup
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ npm install startup-package
 To start using the package, you need to add the following code to your `index.js` file:
 
 ```javascript
-const Startup = require('startup-package');
+const Startup = require('@soydaddy/startup');
 
 // Initialize the package with the project name, version, and language (optional)
 new Startup('projectName', '1.0.0', 'en'); // Replace 'projectName' and '1.0.0' with the actual values
