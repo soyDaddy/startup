@@ -1,0 +1,8 @@
+apiError: "Error al obtener la última versión desde la API."
+downloadError: "Error al descargar el repositorio."
+updateCancel: "Actualización cancelada."
+firstTimeCancel: "Descarga inicial cancelada."
+resumePrompt: "¿Te gustaría reanudar la descarga interrumpida?"
+userCancelled: "Descarga cancelada por el usuario."
+backupError: "Error al crear la copia de seguridad del proyecto actual."
+directoryNotEmpty: "Error: El directorio de destino no está vacío."

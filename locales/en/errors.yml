@@ -1,0 +1,8 @@
+apiError: "Error fetching the latest version from the API."
+downloadError: "Error downloading the repository."
+updateCancel: "Update cancelled."
+firstTimeCancel: "Initial download cancelled."
+resumePrompt: "Would you like to resume the interrupted download?"
+userCancelled: "Download cancelled by the user."
+backupError: "Error creating the backup of the current project."
+directoryNotEmpty: "Error: The destination directory is not empty."

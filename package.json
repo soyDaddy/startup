@@ -1,0 +1,24 @@
+{
+    "name": "@soydaddy/startup",
+    "version": "1.0.0",
+    "description": "A package that downloads and updates projects from a repository, supporting multi-language prompts and resumable downloads.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "startup",
+      "download",
+      "resume",
+      "multilanguage"
+    ],
+    "author": "soyDaddy",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.2.0",
+      "inquirer": "^8.2.0",
+      "simple-git": "^2.47.0",
+      "js-yaml": "^4.1.0"
+    }
+  }
+  
