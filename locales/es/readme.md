@@ -16,7 +16,7 @@ Un paquete que ayuda a descargar y actualizar proyectos desde un repositorio con
 Para instalar el paquete, utiliza el siguiente comando:
 
 ```bash
-npm install startup-package
+npm install @soydaddy/startup
 ```
 
 ## Uso
@@ -24,7 +24,7 @@ npm install startup-package
 Para comenzar a usar el paquete, necesitas agregar el siguiente código a tu archivo `index.js`:
 
 ```javascript
-const Startup = require('startup-package');
+const Startup = require('@soydaddy/startup');
 
 // Inicializa el paquete con el nombre del proyecto, versión y el idioma (opcional)
 new Startup('projectName', '1.0.0', 'es'); // Reemplaza 'projectName' y '1.0.0' con los valores correctos
